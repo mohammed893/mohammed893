@@ -1,5 +1,5 @@
 # Hi, I'm Mohammed Sherif 👋
-<img align="right" src="idle.gif" alt="Flexi Character" width="250"/>
+<img align="right" src="Idle.gif" alt="Flexi Character" width="250"/>
 
 **`AI & Software Developer`**  
 Passionate about building intelligent systems, from real-time AI applications to scalable backend services.  
