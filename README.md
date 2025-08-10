@@ -1,5 +1,5 @@
 # Hi, I'm Mohammed Sherif 👋
-<a href="https://example.com" target="_blank">
+<a href="https://flexiscan.life" target="_blank">
   <img align="right" src="Idle.gif" alt="Flexi Character" width="250"/>
 </a>
 **`AI & Software Developer`**  
