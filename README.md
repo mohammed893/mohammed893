@@ -1,6 +1,7 @@
 # Hi, I'm Mohammed Sherif 👋
-<img align="right" src="Idle.gif" alt="Flexi Character" width="250"/>
-
+<a href="https://example.com" target="_blank">
+  <img align="right" src="Idle.gif" alt="Flexi Character" width="250"/>
+</a>
 **`AI & Software Developer`**  
 Passionate about building intelligent systems, from real-time AI applications to scalable backend services.  
 Skilled in Node.js, Flutter, Deep Learning, and System Design — always exploring new technologies.
@@ -32,14 +33,26 @@ AI-powered health & fitness platform that uses computer vision and wearable sens
 **Key Features:** Real-time feedback, personalized training plans, and remote healthcare integration.  
 **Tech Stack:** Node.js, Flutter, TensorFlow, PyTorch, PostgreSQL  
 
+📢 **Coming Soon** – [Visit flexiscan.life](https://flexiscan.life)
+
 ---
 
-### 🎯 AI Quiz Generator
+### 🎯 Quizzly
 An intelligent platform for educators to create quizzes automatically from textbooks using semantic chunking and embeddings.  
 **Key Features:** PDF ingestion, AI-based question generation, classroom management.  
 **Tech Stack:** LangChain, PostgreSQL, Python  
-[🔗 View Repository](https://github.com/YOUR_USERNAME/quiz-generator)
+[🔗 View Repository](https://github.com/noureleman404/Quizzly)
 
+
+---
+### 🎯 AI Smart Healthcare Assistant
+An AI-powered healthcare platform capable of detecting diseases such as brain tumors, Alzheimer’s, lung diseases, and heart conditions.  
+The system includes an intelligent chatbot for doctors, enabling instant access to AI-assisted diagnosis insights, and a telemedicine platform for connecting patients with healthcare professionals.  
+**Key Features:** AI-based disease detection, doctor chatbot assistant, patient–doctor communication, secure medical data management.  
+**Tech Stack:** LangChain, PostgreSQL, Python, Node.js, Flutter  
+[🔗 Backend - Flask](https://github.com/mohammed893/Hospital_app_AI_models_API_flask)  
+[🔗 Backend - Node.js](https://github.com/mohammed893/HospitalApp_management_Nodejs)  
+[🔗 Frontend - Flutter](https://github.com/mohammed893/Tumora)
 
 ---
 
