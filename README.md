@@ -26,7 +26,7 @@ Skilled in Node.js, Flutter, Deep Learning, and System Design — always explori
 
 ---
 
-## 🛠 Projects
+## 🛠 Recent Projects
 
 ### 🚑 FlexiScan
 AI-powered health & fitness platform that uses computer vision and wearable sensors to detect posture and movement issues.  
@@ -43,6 +43,15 @@ An intelligent platform for educators to create quizzes automatically from textb
 **Tech Stack:** LangChain, PostgreSQL, Python  
 [🔗 View Repository](https://github.com/noureleman404/Quizzly)
 
+
+---
+
+### 🧩 Flutter MediaPipe Pose Landmarker Plugin
+A Flutter plugin that integrates Google’s MediaPipe Pose Landmarker for real-time human pose estimation directly on flutter.  
+**Key Features:** Real-time landmark detection, and optimized for performance in fitness and posture analysis apps.  
+**Tech Stack:** Flutter, Dart, MediaPipe, Native (Java/Kotlin, Swift)  
+
+📦 Available on pub.dev – [flutter_mp_pose_landmarker](https://pub.dev/packages/flutter_mp_pose_landmarker)
 
 ---
 ### 🎯 AI Smart Healthcare Assistant
